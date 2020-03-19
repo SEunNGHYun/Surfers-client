@@ -22,7 +22,7 @@
 
 ### 구현 기능
 
--> React-Native와 TypeScript를 이용하여 모든 페이지를 구현
--> firebase를 이용하여 google oAuth를 구현
--> Redux를 사용하여 데이터를 관리
--> socket.io를 이용하여 방마다 채팅을 구현
+- React-Native와 TypeScript를 이용하여 모든 페이지를 구현
+- firebase를 이용하여 google oAuth를 구현
+- Redux를 사용하여 데이터를 관리
+- socket.io를 이용하여 방마다 채팅을 구현
